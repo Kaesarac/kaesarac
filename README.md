@@ -1,8 +1,8 @@
 <h1> Hello There <h1>
 
 
-- 🔭 I’m currently working as an Intern at DataSide/SideLab.
-- 🌱 I’m currently working with/learning NODE.JS, NoSQL, REACT.JS, JAVASCRIPT, TYPESCRIPT.
+- 🔭 I’m currently working as a Web Developer at Thinkerside.
+- 🌱 I’m currently working with/learning NODE.JS, NoSQL, REACT.JS, JAVASCRIPT, TYPESCRIPT, SOLID, SEQUELIZE.
 - 👯 I’m looking to collaborate on starter React.js projects.
 - 💬 Ask me about the Roman Empire.
 - 💍 ✨Married✨
