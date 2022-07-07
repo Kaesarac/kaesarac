@@ -1,8 +1,8 @@
 <h1> Hello There <h1>
 
 
-- 🔭 I’m currently working as a Freelance Back-End Web Developer at Thinkerside.
-- 🌱 I’m currently working with NODE.JS, POSTGRESQL, MYSQL, NoSQL, REACT.JS, JAVASCRIPT, TYPESCRIPT, SOLID, SEQUELIZE.
+- 🔭 I’m currently open to Job offers.
+- 🌱 I have professional experience with NODE.JS, POSTGRESQL, MYSQL, NoSQL, REACT.JS, JAVASCRIPT, TYPESCRIPT, SOLID, SEQUELIZE, PYTHON, KAFKA, SQL SERVER, AZURE DEVOPS.
 - 🌱 Learning Ruby on Rails
 - 👯 I’m looking to collaborate on starter Ruby on Rails projects.
 - 💬 Ask me about the Roman Empire.
