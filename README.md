@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently open to Job offers.
 - 🌱 I have professional experience with NODE.JS, POSTGRESQL, MYSQL, NoSQL, REACT.JS, JAVASCRIPT, TYPESCRIPT, SOLID, SEQUELIZE, PYTHON, KAFKA, SQL SERVER, AZURE DEVOPS.
-- 🌱 Learning Ruby on Rails
+- 🌱 Learning ASP .NET CORE
 - 👯 I’m looking to collaborate on starter Ruby on Rails projects.
 - 💬 Ask me about the Roman Empire.
 - 💍 ✨Married✨
