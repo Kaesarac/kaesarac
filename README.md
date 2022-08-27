@@ -4,7 +4,7 @@
 - 🔭 I’m currently open to Job offers.
 - 🌱 I have professional experience with NODE.JS, POSTGRESQL, MYSQL, NoSQL, REACT.JS, JAVASCRIPT, TYPESCRIPT, SOLID, SEQUELIZE, PYTHON, KAFKA, SQL SERVER, AZURE DEVOPS.
 - 🌱 Learning ASP .NET CORE
-- 👯 I’m looking to collaborate on starter Ruby on Rails projects.
+- 👯 I’m looking to collaborate on starter ASP .NET CORE projects.
 - 💬 Ask me about the Roman Empire.
 - 💍 ✨Married✨
 - 📫 How to reach me: Smoke Signals... or you could try my LinkedIn: https://www.linkedin.com/in/augusto-cesar-silva-4630b620a/
